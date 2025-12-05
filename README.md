@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun Kushwaha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data analytics 
+- 🌱 I’m currently learning Mern developement , AI intergation and Cloud
 - 💞️ I’m looking to collaborate on project related data science 
 - 📫 How to reach me :- u can reach me via email [tarunkushwaha322@gmail.com]
 
